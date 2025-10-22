@@ -1,4 +1,4 @@
-#0)model 1)rv 2)Rgc 3)Z 4)N(x10^5) 5)t_merge(Myr) 6)id1 7)id2 8)m1 9)m2 10)spin1 11)spin2 12)v_kick 13)v_esc 14)channel 15)id_merger 16)m_merger 17)spin_merger 18)a_final (AU) 19)e_final
+# 0)model 1)rv 2)Rgc 3)Z 4)N(x10^5) 5)t_merge(Myr) 6)id1 7)id2 8)m1 9)m2 10)spin1 11)spin2 12)gen1 13)gen2 14)v_kick 15)v_esc 16)channel 17)id_merger 18)m_merger 19)spin_merger 20)gen3 21)a_final (AU) 22)e_final
 # merger channels: 1)ejected 2)in-cluster binary 3) in cluster 3-body 4) in cluster 4 body 5) in cluster 2-body GW capture
 1 0.5 2.0 0.0002 2.0 24.8214576395 178115.0 368347.0 40.5 31.5788 0.0 0.0 1 1 69.3998 70.1823 4 368348.0 68.6898 0.678055 2 0.000199265 0.788704
 1 0.5 2.0 0.0002 2.0 28.9740583341 17637.0 216938.0 33.7537 39.3318 0.0 0.0 1 1 43.4995 76.8347 4 216939.0 69.5926 0.68327 2 0.000284961 0.266025
