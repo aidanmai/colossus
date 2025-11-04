@@ -1,6 +1,6 @@
 # Colossus Analysis
 
-This project is an analysis of `colossus`, a 10-million-body globular cluster simulation run using Cluster Monte Carlo (CMC) code. We analyze hierarchical mergers within `colossus` and the `CMC Cluster Catalog` [Kremer et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K%2F/abstract), and extrapolate binary black hole merger populations to the Virgo Cluster. For further context, see Mai et al. (2025).
+This project is an analysis of `colossus`, a 10-million-body globular cluster simulation run using Cluster Monte Carlo (CMC) code. We analyze hierarchical mergers within `colossus` and the `CMC Cluster Catalog` [Kremer et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K%2F/abstract), and extrapolate binary black hole merger populations to the Virgo Cluster. For further context, see [Mai et al. (2025)](https://arxiv.org/abs/2510.21916).
 
 ## Notebook Files
 
